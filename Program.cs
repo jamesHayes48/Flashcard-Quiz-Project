@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Flashcard_Quiz_Project
+public class Program
 {
-    internal class Program
-    {
+
         static void Main(string[] args)
         {
+
         }
-    }
 }
